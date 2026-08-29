@@ -2,6 +2,10 @@
 
 Thank you for your interest in contributing to our open source projects! We welcome contributions from everyone, whether you're a seasoned developer or just starting out. Here are some guidelines to help you get started:
 
+By participating, you agree to our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+Individual repositories may publish their own `CONTRIBUTING.md` with setup steps, project structure, and a pull request checklist. Where one exists, follow it. This document covers what is common to all Mayura projects.
+
 ## How to Contribute
 
 1. **Fork the Repository**: Start by forking the repository you want to contribute to. This creates a personal copy of the project where you can make changes.
@@ -39,10 +43,12 @@ Thank you for your interest in contributing to our open source projects! We welc
 - **License**: By contributing, you agree that your contributions will be licensed under the same license as the project.
 
 ## Reporting Issues
-If you find a bug or have a feature request, please open an issue in the repository.
+If you find a bug or have a feature request, please open an issue on the repository it affects.
+
+Security vulnerabilities are the exception: don't open a public issue. See [SECURITY.md](SECURITY.md).
 
 ## Questions and Support
-If you have any questions or need help, feel free to reach out by opening an issue or contacting the maintainers directly.
+See [SUPPORT.md](SUPPORT.md).
 
 ## Thank You!
 Thank you for taking the time to contribute! Your efforts help make this project better for everyone. We appreciate your contributions and look forward to collaborating with you!
